@@ -1,0 +1,14 @@
+/* hw2.css - Cameron Wertelka */
+p.name {
+  font-size: 140%;
+  color: red;
+}
+p.major {
+  font-size: 120%;
+  color: blue;
+}
+p.last_prog_course {
+  font-size: 120%;
+  font-style: italic;
+  color: green;
+}

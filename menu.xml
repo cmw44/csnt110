@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<menu>
+  <item>
+     <name>
+Rice     </name>
+     <type>
+main     </type>
+  </item>
+  <item>
+     <name>
+Salad     </name>
+     <type>
+main     </type>
+  </item>
+  <item>
+     <name>
+Chicken     </name>
+     <type>
+main     </type>
+  </item>
+  <item>
+     <name>
+Apple Pie     </name>
+     <type>
+dessert     </type>
+  </item>
+  <item>
+     <name>
+Hash Browns     </name>
+     <type>
+main     </type>
+  </item>
+  <item>
+     <name>
+Ice Cream     </name>
+     <type>
+dessert     </type>
+  </item>
+</menu>

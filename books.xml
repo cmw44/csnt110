@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet rel="stylesheet" href="books.css" ?> 
+<books>
+    <book>
+        <title>Tale of Two Cities</title>
+        <author>by Charles Dickens</author>
+        <price>$6.95</price>
+    </book>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>by F. Scott Fitzgerald</author>
+        <price>$2.99</price>
+    </book>
+    <book>
+        <title>The Picture of Dorian Gray</title>
+        <author>by Oscar Wilde</author>
+        <price>$3.86</price>
+    </book>
+</books>

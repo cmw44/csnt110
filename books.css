@@ -1,0 +1,23 @@
+books {
+  background-color: #e0e0da;
+}
+book {
+  display: block;
+  margin: 1.5em;
+}
+title {
+  color: #463c59;
+  font-size: 150%;
+  font-family: "Times New Roman", Times, serif;
+}
+author {
+  color: #821437;
+  font-size: 110%;
+  font-style: italic;
+}
+price {
+  display: block;
+  color: #0c872d;
+  font-size: 90%;
+  text-decoration: underline;
+}

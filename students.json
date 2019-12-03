@@ -1,0 +1,19 @@
+{ 
+  "students" : [ 
+    { 
+      "name" : "Jane Doe", 
+      "major" : "CENT", 
+      "credits" : 12 
+    }, 
+    { 
+      "name" : "John Doe", 
+      "major" : "PHYS", 
+      "credits" : 10 
+    }, 
+    { 
+      "name" : "Bill Gates", 
+      "major" : "ICS", 
+      "credits" : 7 
+    } 
+  ] 
+}

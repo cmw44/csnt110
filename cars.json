@@ -1,0 +1,19 @@
+{
+  "cars" : [
+    {
+      "make" : "Toyota",
+      "model" : "Camry",
+      "price" : 24999.99
+    },
+    {
+      "make" : "Honda",
+      "model" : "Accord",
+      "price" : 25479.99
+    },
+    {
+      "make" : "Chevrolet",
+      "model" : "Camaro",
+      "price" : 34989.99
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "students" : [
+    {
+      "name" : "Jane Doe",
+      "hwscores" : [85.1, 95.0, 95.0],
+      "exams" : [92.7, 91.4, 95.2]
+    },
+    {
+      "name" : "John Doe",
+      "hwscores" : [95.1, 90.5, 90.1],
+      "exams" : [91.1, 81.3, 85.6]
+    },
+    {
+      "name" : "Bill Gates",
+      "hwscores" : [60.0, 60.0, 75.0],
+      "exams" : [98.7, 94.4, 96.4]
+    }
+  ]
+}
